@@ -1,9 +1,11 @@
-# UAS-DASPROG-SEMESTER-1
-Mata Kuliah : [DASAR PEMROGRAMAN]
-Nama : [MARVI YOGA PRATAMA]
-NIM : [1227050070]
-Jurusan : Teknik Informatika UIN Sunan Gunung Djati Bandung
+# Ujian Akhir Semester 
+<br>Mata Kuliah 	: [DASAR PEMROGRAMAN]
+<br> Nama		: [MARVI YOGA PRATAMA]
+<br>NIM		: [1227050070]	
+<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
-Deskripsi Umum
-Kode sumber
-Keluaran
+## Deskripsi Umum
+
+## Source Code
+
+## Output
